@@ -53,7 +53,7 @@ Nachfragen können natürlich auch via E-Mail gestellt werden.
 ## Abgabe
 
 * XSLT, Schematron, CSS
-* als Zip: `elpub5-2022_nachname_vorname.zip`
+* als Zip: `elpub5-2025_nachname_vorname.zip`
 
 ## Prüfungsablauf
 

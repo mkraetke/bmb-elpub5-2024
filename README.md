@@ -64,8 +64,9 @@ Nachfragen können natürlich auch via E-Mail gestellt werden.
 
 ## Editoren
 
-* oXygen XML
-* Notepad++ (mit XML-Plugin)
+* [oXygen XML Editor](https://www.oxygenxml.com/)
+* [Notepad++](https://notepad-plus-plus.org) (mit Plugin _XML-Tools_)
+* [VSCode](https://code.visualstudio.com/) mit [XSLT/XPath-Unterstützung](https://marketplace.visualstudio.com/items?itemName=deltaxml.xslt-xpath)
 
 ## Literatur
 

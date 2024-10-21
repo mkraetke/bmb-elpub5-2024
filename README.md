@@ -69,6 +69,16 @@ Nachfragen können natürlich auch via E-Mail gestellt werden.
 
 ## Literatur
 
+### JATS
+
+#### Dokumentation
+
+[Web-Dokumentation von JATS](https://jats.nlm.nih.gov/publishing/tag-library/1.3/element/journal-id.html)
+
+#### Tutorials
+
+[Introduction to JATS von Debbie Lapeyre](https://www.xml.com/articles/2018/10/12/introduction-jats/)
+
 ### XSLT
 
 #### Spec

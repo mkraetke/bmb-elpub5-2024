@@ -42,13 +42,14 @@ Nachfragen können natürlich auch via E-Mail gestellt werden.
 
 ### Schematron
 
-1. kwd-group muss mindestens drei kwd-Elemente enthalten
-2. die Elemente volume und issue dürfen ausschließlich Zahlen enthalten.
-3. pub-date day, month und year entsprechend nur aus Zahlen bestehen bzw. die richtige Anzahl von Stellen.
-4. Letzte Seite muss größer als die erste Seite sein. &lt; und &gt;
-5. Copyright Jahr muss größer als 1990 sein.
-6. Der Dateiname in related-article muss immer mit der Endung ".pdf" enden.
-7. Journal-Code muss fünfstellig sein.
+1. Der Inhalt von publisher-name muss "De Gruyter" sein.
+2. kwd-group muss mindestens drei kwd-Elemente enthalten
+3. die Elemente volume und issue dürfen ausschließlich Zahlen enthalten.
+4. pub-date day, month und year entsprechend nur aus Zahlen bestehen bzw. die richtige Anzahl von Stellen.
+5. Letzte Seite muss größer als die erste Seite sein. &lt; und &gt;
+6. Copyright Jahr muss größer als 1990 sein.
+7. Der Dateiname in related-article muss immer mit der Endung ".pdf" enden.
+8. Journal-Code muss fünfstellig sein.
 
 ## Abgabe
 

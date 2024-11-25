@@ -64,17 +64,18 @@ Nachfragen können natürlich auch via E-Mail gestellt werden.
 
 ### PrintCSS
 
-1. Print Media Query vorhanden
-2. Page Rules für gerade und ungerade Seiten und erste Seite (ohne Seitenzahl und Kolumnentitel)
-3. funktionierendes Inhaltsverzeichnis mit Seitenzahl
-4. Floats bei Bildern und Tabellen (top)
-5. Kolumnentitel
-6. Seitenzahl
-7. Fußnoten
-8. Referenzen
-9. mehrspaltiges Layout, außer bei Titelseite, Bildern und Tabellen
-10. Schrift eingebunden
-11. keine doppelten Elemente
+1. das CSS muss valide sein (Ausnahme spezielle PrinceCSS-Properties)
+2. Print Media Query vorhanden
+3. Page Rules für gerade und ungerade Seiten und erste Seite (ohne Seitenzahl und Kolumnentitel)
+4. funktionierendes Inhaltsverzeichnis mit Seitenzahl
+5. Floats bei Bildern und Tabellen (top)
+6. Kolumnentitel
+7. Seitenzahl
+8. Fußnoten
+9. Referenzen
+10. mehrspaltiges Layout, außer bei Titelseite, Bildern und Tabellen
+11. Schrift eingebunden
+12. keine doppelten Elemente
 
 ## Abgabe
 

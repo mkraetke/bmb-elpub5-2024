@@ -68,12 +68,13 @@ Nachfragen können natürlich auch via E-Mail gestellt werden.
 2. Page Rules für gerade und ungerade Seiten und erste Seite (ohne Seitenzahl und Kolumnentitel)
 3. funktionierendes Inhaltsverzeichnis mit Seitenzahl
 4. Floats bei Bildern und Tabellen (top)
-5. Seitenzahl
-6. Fußnoten
-7. Referenzen
-8. Mehrkolumnenlayout, außer bei Titelseite, Bildern und Tabellen
-9. Schrift eingebunden
-10. keine doppelten Elemente
+5. Kolumnentitel
+6. Seitenzahl
+7. Fußnoten
+8. Referenzen
+9. mehrspaltiges Layout, außer bei Titelseite, Bildern und Tabellen
+10. Schrift eingebunden
+11. keine doppelten Elemente
 
 ## Abgabe
 

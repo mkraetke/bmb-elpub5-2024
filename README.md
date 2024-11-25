@@ -40,6 +40,16 @@ Nachfragen können natürlich auch via E-Mail gestellt werden.
 2. Prüfen der JATS-Daten mit [ISO Schematron](http://schematron.com/)
 3. Erstellen einer Druckvorlage mit PrintCSS
 
+### XSLT
+
+1. XSLT muss valide sein
+2. XSLT muss alle Elemente vollständig transformieren
+3. Es darf kein Text verloren gehen
+4. Interne und externe Links müssen funktionsfähig sein
+5. Nummerierungen von Sections sollten automatisch erfolgen
+6. Redundanter Code sollte vermieden werden
+7. Die HTML-Ausgabe muss valide sein
+
 ### Schematron
 
 1. Der Inhalt von publisher-name muss "De Gruyter" sein.
@@ -51,6 +61,18 @@ Nachfragen können natürlich auch via E-Mail gestellt werden.
 7. Copyright Jahr muss größer als 1990 sein.
 8. Der Dateiname in related-article muss immer mit der Endung ".pdf" enden.
 9. Journal-Code muss fünfstellig sein.
+
+### PrintCSS
+
+1. Print Media Query vorhanden
+2. Page Rules für gerade und ungerade Seiten
+3. funktionierendes Inhaltsverzeichnis
+4. Floats bei Bildern und Tabellen (top)
+5. Fußnoten
+6. Referenzen
+7. Mehrkolumnenlayout, außer bei Titelseite, Bildern und Tabellen
+8. Schrift eingebunden
+9. keine doppelten Elemente
 
 ## Abgabe
 

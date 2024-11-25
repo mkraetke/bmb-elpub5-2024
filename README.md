@@ -43,12 +43,13 @@ Nachfragen können natürlich auch via E-Mail gestellt werden.
 ### XSLT
 
 1. XSLT muss valide sein
-2. XSLT muss alle Elemente vollständig transformieren
-3. Es darf kein Text verloren gehen
-4. Interne und externe Links müssen funktionsfähig sein
-5. Nummerierungen von Sections sollten automatisch erfolgen
-6. Redundanter Code sollte vermieden werden
-7. Die HTML-Ausgabe muss valide sein
+2. XSLT muss lauffähig sein: keine Fehler, keine uneindeutigen Templates (ambiguous)
+3. XSLT muss alle Elemente vollständig transformieren
+4. Es darf kein Text verloren gehen
+5. Interne und externe Links müssen funktionsfähig sein
+6. Nummerierungen von Sections sollten automatisch erfolgen
+7. Redundanter Code sollte vermieden werden
+8. Die HTML-Ausgabe muss valide sein
 
 ### Schematron
 

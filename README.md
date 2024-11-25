@@ -45,11 +45,12 @@ Nachfragen können natürlich auch via E-Mail gestellt werden.
 1. XSLT muss valide sein
 2. XSLT muss lauffähig sein: keine Fehler, keine uneindeutigen Templates (ambiguous)
 3. XSLT muss alle Elemente vollständig transformieren
-4. Es darf kein Text verloren gehen
-5. Interne und externe Links müssen funktionsfähig sein
-6. Nummerierungen von Sections sollten automatisch erfolgen
-7. Redundanter Code sollte vermieden werden
-8. Die HTML-Ausgabe muss valide sein
+4. Metadaten müssen nicht alle vorhanden sein, aber mindestens: Journal Title, Publisher, Contributors, Volume, Issue, Abstract
+5. Es darf kein Text verloren gehen
+6. Interne und externe Links müssen funktionsfähig sein
+7. Nummerierungen von Sections sollten automatisch erfolgen
+8. Redundanter Code sollte vermieden werden
+9. Die HTML-Ausgabe muss valide sein
 
 ### Schematron
 

@@ -91,7 +91,7 @@ Nachfragen können natürlich auch via E-Mail gestellt werden.
 * Dauer: 15 Minuten plus 5 Minuten Vorbereitung plus 5 Minuten Auswertung (gesamt: 25 Minuten)
 * fehlerfreie Konvertierung mit oXygen und Prince zeigen
 * Präsentation der Konvertierungsergebnisse
-* Praktische Fragen zu den Themengebieten XSLT, Schematron, PrintCSS
+* Praktische und theoretische Fragen zu den Themengebieten XSLT, Schematron, PrintCSS
 
 ## Editoren
 

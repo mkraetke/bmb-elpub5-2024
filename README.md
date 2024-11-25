@@ -79,7 +79,7 @@ Nachfragen können natürlich auch via E-Mail gestellt werden.
 
 ## Abgabe
 
-* bis 9.11. Daten abgeben
+* bis 9.12. Daten abgeben
 * XSLT, Schematron, CSS
 * als Zip: `elpub5-2024_nachname_vorname.zip`
 

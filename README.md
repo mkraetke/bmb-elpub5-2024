@@ -81,8 +81,9 @@ Nachfragen können natürlich auch via E-Mail gestellt werden.
 ## Abgabe
 
 * bis 9.12. Daten abgeben
-* XSLT, Schematron, CSS
+* XML, XSLT, Schematron, CSS
 * als Zip: `elpub5-2024_nachname_vorname.zip`
+* via E-Mail an martin.kraetke@le-tex.de oder Mattermost
 
 ## Prüfungsablauf
 

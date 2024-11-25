@@ -65,14 +65,15 @@ Nachfragen können natürlich auch via E-Mail gestellt werden.
 ### PrintCSS
 
 1. Print Media Query vorhanden
-2. Page Rules für gerade und ungerade Seiten
-3. funktionierendes Inhaltsverzeichnis
+2. Page Rules für gerade und ungerade Seiten und erste Seite (ohne Seitenzahl und Kolumnentitel)
+3. funktionierendes Inhaltsverzeichnis mit Seitenzahl
 4. Floats bei Bildern und Tabellen (top)
-5. Fußnoten
-6. Referenzen
-7. Mehrkolumnenlayout, außer bei Titelseite, Bildern und Tabellen
-8. Schrift eingebunden
-9. keine doppelten Elemente
+5. Seitenzahl
+6. Fußnoten
+7. Referenzen
+8. Mehrkolumnenlayout, außer bei Titelseite, Bildern und Tabellen
+9. Schrift eingebunden
+10. keine doppelten Elemente
 
 ## Abgabe
 
